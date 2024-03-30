@@ -1,0 +1,5 @@
+Bill breakdown:
+Coffee:                   ...$5
+Pizza:                    ...$14
+tip:                      ...$3
+total:                    ...$22.00
